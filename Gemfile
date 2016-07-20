@@ -44,6 +44,9 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
+group :test do
+  gem 'shoulda-matchers'
+end
 group :test,:development do
   gem 'rspec-rails'
   gem 'factory_girl_rails'
