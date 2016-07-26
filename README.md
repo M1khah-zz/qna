@@ -9,4 +9,4 @@ Things you may want to cover:
 
 * Rails 5.0.0
 
-* Shoulda-Matchers,FactoryGirl,Rspec
+* Shoulda-Matchers,FactoryGirl,Rspec,Slim,Capybara,Devise ...
